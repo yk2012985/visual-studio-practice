@@ -1,0 +1,20 @@
+﻿<Window x:Class="control_widget.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:control_widget"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox Margin="10" BorderBrush="Gray">
+            <GroupBox.Header>
+                <Image Source=".\thread_153189310406772_20180729161906_s_226045_o_w_1079_h_1077_58948.jpg" Width="80" Height="80"/>
+                
+            </GroupBox.Header>
+            <TextBlock TextWrapping="WrapWithOverflow" Margin="10" Text="HeaderedContentControl控件测试。"/>
+
+        </GroupBox>
+        
+    </Grid>
+</Window>
