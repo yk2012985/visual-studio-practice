@@ -1,0 +1,10 @@
+G:\visual studio work\webform_test\webform_test\bin\Debug\webform_test.exe.config
+G:\visual studio work\webform_test\webform_test\bin\Debug\webform_test.exe
+G:\visual studio work\webform_test\webform_test\bin\Debug\webform_test.pdb
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.csprojAssemblyReference.cache
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.Form1.resources
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.Properties.Resources.resources
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.csproj.GenerateResource.cache
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.csproj.CoreCompileInputs.cache
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.exe
+G:\visual studio work\webform_test\webform_test\obj\Debug\webform_test.pdb
